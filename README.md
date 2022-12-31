@@ -25,7 +25,7 @@
 [instagram]: https://www.instagram.com/joshmadakor/ -->
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/sierra-bush-696784a7/
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
